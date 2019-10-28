@@ -1,0 +1,38 @@
+# Blender MTL File: 'MRL-279.blend'
+# Material Count: 3
+
+newmtl 10_body_0_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.603125 0.729830 0.544986
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd D:\Dropbox\Shared Files\XPS\Elizabeth,Seven Deadly Sins Grand Cross\hero_elizabeth_hawk_body_0016_D.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elizabeth,Seven Deadly Sins Grand Cross\\hero_elizabeth_hawk_body_0016_D.png
+
+newmtl 10_hair_0_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.421126 0.613826 0.618793
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd D:\Dropbox\Shared Files\XPS\Elizabeth,Seven Deadly Sins Grand Cross\hero_elizabeth_head_0001_D.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elizabeth,Seven Deadly Sins Grand Cross\\hero_elizabeth_head_0001_D.png
+
+newmtl 10_head_0_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.487630 0.635785 0.777246
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd D:\Dropbox\Shared Files\XPS\Elizabeth,Seven Deadly Sins Grand Cross\hero_elizabeth_head_0001_D.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Elizabeth,Seven Deadly Sins Grand Cross\\hero_elizabeth_head_0001_D.png

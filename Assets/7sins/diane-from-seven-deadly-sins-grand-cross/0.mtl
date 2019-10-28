@@ -1,0 +1,38 @@
+# Blender MTL File: 'MRL-279.blend'
+# Material Count: 3
+
+newmtl 10_body_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.608379 0.531653 0.695393
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd D:\Dropbox\Shared Files\XPS\Diane,Seven Deadly Sins Grand Cross\hero_dianesmall_body_0001_D.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Diane,Seven Deadly Sins Grand Cross\\hero_dianesmall_body_0001_D.png
+
+newmtl 10_hair_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.523449 0.705466 0.524102
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd D:\Dropbox\Shared Files\XPS\Diane,Seven Deadly Sins Grand Cross\hero_diane_head_0001_D.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Diane,Seven Deadly Sins Grand Cross\\hero_diane_head_0001_D.png
+
+newmtl 10_head_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.502828 0.452697 0.513365
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 0
+map_Kd D:\Dropbox\Shared Files\XPS\Diane,Seven Deadly Sins Grand Cross\hero_diane_head_0001_D.png
+map_d D:\\Dropbox\\Shared Files\\XPS\\Diane,Seven Deadly Sins Grand Cross\\hero_diane_head_0001_D.png
